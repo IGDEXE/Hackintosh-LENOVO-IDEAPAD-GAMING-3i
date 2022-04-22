@@ -49,3 +49,5 @@ Open `config.plist` with ProperTree and:
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
+## Video - Instalando o MacOS no Ideapad Gaming 3i! Passo a passo com o @Gabriel Luchina - Universo Hackintosh
+- [YouTube](https://www.youtube.com/watch?v=MJThfdMECj4)
